@@ -1,0 +1,25 @@
+{
+  "basic_features": [
+    "diameter",
+    "velocity",
+    "miss_distance"
+  ],
+  "advanced_features": [
+    "diameter",
+    "velocity",
+    "mass",
+    "absolute_magnitude"
+  ],
+  "hazard_features": [
+    "diameter",
+    "velocity",
+    "mass",
+    "absolute_magnitude",
+    "miss_distance"
+  ],
+  "targets": [
+    "kinetic_energy",
+    "hazardous",
+    "impact_energy_megatons"
+  ]
+}
