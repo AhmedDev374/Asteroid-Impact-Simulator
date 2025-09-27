@@ -220,7 +220,3 @@ If you have questions, reach out to Ahmed:
 ## License
 
 This project is licensed under the **GNU General Public License v3.0**. See [LICENSE](LICENSE) for details.
-
----
-
-*Last updated: replace with date when you finalize this README.*
