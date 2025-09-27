@@ -4,22 +4,15 @@
 
 ---
 
-## Demo / Screenshots
-
-> Add a demo video or screenshots to `Images/` and replace the links below.
-
-[![Demo Video](Images/demo_placeholder.png)](Images/video_demo.mp4)
-
 ### Quick Gallery
-
-1. **Global Map / Impact Location**
-   ![map](Images/map_view.png)
-2. **Impact Cross-section / Energy Plot**
-   ![energy](Images/energy_plot.png)
-3. **Crater Visualization**
-   ![crater](Images/crater.png)
-4. **Damage Footprint / Heatmap**
-   ![heatmap](Images/heatmap.png)
+1. **Screenshot 1**
+   ![img1](media/img/img1.PNG)
+2. **Screenshot 2**
+   ![img2](media/img/img2.PNG)
+3. **Screenshot 3**
+   ![img3](media/img/img3.PNG)
+4. **Screenshot 4**
+   ![img4](media/img/img4.PNG)
 
 ---
 
